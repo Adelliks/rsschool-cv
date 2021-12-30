@@ -4,7 +4,7 @@
 
 2. ## Contacts:
     * +375 44 5631359
-    * [email](adelliksnew@mail.ru)
+    * Email: adelliksnew@mail.ru
     * [VK](https://vk.com/adelliks)
     * [Instagram](https://instagram.com/adelliksman)
   
