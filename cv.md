@@ -15,9 +15,9 @@ I am 21 years old, I'm studying at medical university in Gomel. Now, on the 5th 
     * High ability to learn and memorize information.
     * Basic skills of HTML, CSS, Git.
 
-5. -
+5. none
 
-6. -
+6. none
 
 7. ## Education 
 Secondary education and incomplete higher medical education.
